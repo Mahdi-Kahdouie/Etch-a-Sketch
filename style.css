@@ -1,0 +1,22 @@
+.squareShape{
+    /* border: 16px; */
+    background-color: rgb(21, 21, 20);
+    height: 6.25%;
+    width:6.25%;
+    border: 1px solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    
+
+}
+
+
+
+#container{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-wrap:wrap;
+    gap: 1px; 
+    
+
+}
