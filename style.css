@@ -11,12 +11,13 @@
 
 
 
+
 #container{
     width: 500px;
     height: 500px;
     display: flex;
     flex-wrap:wrap;
-    gap: 1px; 
+    /* gap: 1px;  */
     
 
 }
